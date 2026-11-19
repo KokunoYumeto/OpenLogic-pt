@@ -1,0 +1,414 @@
+kind	english	count	parts	status	pedro	ai	proposal	basis
+chave	formula	1339		settled-config			fórmula / fórmulas	configuração de Pedro Lima
+chave	derivation	668		settled-config			derivação / derivações	configuração de Pedro Lima
+chave	proof	613		settled-config			derivação / derivações	configuração de Pedro Lima
+chave	sentence	561		settled-config			sentença / sentenças	configuração de Pedro Lima
+chave	element	481		settled-config			membro / membros	configuração de Pedro Lima
+chave	structure	405		settled-config			estrutura / estruturas	configuração de Pedro Lima
+chave	tableau	236		settled-config			tableau / tableaux	configuração de Pedro Lima
+chave	constant	192		settled-config			símbolo de constante / símbolos de constante	configuração de Pedro Lima
+chave	variable	156		settled-config			variável / variáveis	configuração de Pedro Lima
+chave	enumerable	128		settled-config			enumerável / enumeráveis	configuração de Pedro Lima
+chave	derive	110		settled-config			deriva / deriva	configuração de Pedro Lima
+chave	predicate	109		settled-config			símbolo de predicado / símbolos de predicado	configuração de Pedro Lima
+chave	signed formula	103		settled-config			fórmula assinada / fórmulas assinadas	configuração de Pedro Lima
+chave	function	96		settled-config			símbolo de função / símbolos de função	configuração de Pedro Lima
+chave	derivable	84		settled-config			derivável / deriváveis	configuração de Pedro Lima
+chave	valuation	83		settled-config			valoração / valorações	configuração de Pedro Lima
+chave	domain	80		settled-config			domínio / domínios	configuração de Pedro Lima
+chave	surjective	74		settled-config			sobrejetiva / sobrejetivas	configuração de Pedro Lima
+chave	nonenumerable	67		settled-config			não enumerável / não enumeráveis	configuração de Pedro Lima
+chave	propositional variable	66		settled-config			variável proposicional / variáveis proposicionais	configuração de Pedro Lima
+chave	undischarged	65		settled-config			não descarregada / não descarregadas	configuração de Pedro Lima
+chave	bijection	60		settled-config			bijeção / bijeções	configuração de Pedro Lima
+chave	injective	53		settled-config			injetiva / injetivas	configuração de Pedro Lima
+chave	derivability	50		settled-config			derivabilidade / derivabilidades	configuração de Pedro Lima
+chave	language	50		settled-config			linguagem / linguagens	configuração de Pedro Lima
+chave	height	48		open-key			altura / alturas	altura de uma derivação; o ramo de teoria da prova já escreve “preservação de !!{height}”; sem ocorrência na literatura lida: decidir
+chave	complete	47		settled-config			completo / completos	configuração de Pedro Lima
+chave	lambda definable	40		settled-config			\ensuremath{\lambda}-definível / \ensuremath{\lambda}-definíveis	configuração de Pedro Lima
+chave	denumerable	39		settled-config			infinito enumerável / infinitos enumeráveis	configuração de Pedro Lima
+chave	decidable	39		settled-config			decidível / decidíveis	configuração de Pedro Lima
+chave	injection	35		settled-config			injeção / injeções	configuração de Pedro Lima
+chave	main operator	35		settled-config			operador principal / operadores principais	configuração de Pedro Lima
+chave	subformula	33		settled-config			subfórmula / subfórmulas	configuração de Pedro Lima
+chave	axiomatizable	33		settled-config			axiomatizável / axiomatizáveis	configuração de Pedro Lima
+chave	prove	31		settled-config			deriva / deriva	configuração de Pedro Lima
+chave	elimination	29		open-key			eliminação / eliminações	“regras de eliminação” na literatura lida; a chave inglesa tem o mesmo plural (elimination)
+chave	lambda define	25		settled-config			\ensuremath{\lambda}-define / \ensuremath{\lambda}-definem	configuração de Pedro Lima
+chave	introduction	24		open-key			introdução / introduções	“regras de introdução” na literatura lida
+chave	represents	23		settled-config			representa / representam	configuração de Pedro Lima
+chave	value	18		settled-config			valor / valores	configuração de Pedro Lima
+chave	discharged	18		settled-config			descarregada / descarregadas	configuração de Pedro Lima
+chave	provable	18		settled-config			derivável / deriváveis	configuração de Pedro Lima
+chave	surjection	17		settled-config			sobrejeção / sobrejeções	configuração de Pedro Lima
+chave	identity	15		settled-config			predicado de identidade / predicados de identidade	configuração de Pedro Lima
+chave	free for	15		settled-config			livre para / livres para	configuração de Pedro Lima
+chave	bijective	14		settled-config			bijetiva / bijetivas	configuração de Pedro Lima
+chave	biconditional	13		settled-config			bicondicional / bicondicionais	configuração de Pedro Lima
+chave	falsity	11		settled-config			falsidade / falsidades	configuração de Pedro Lima
+chave	conditional	11		settled-config			condicional / condicionais	configuração de Pedro Lima
+chave	truth	10		settled-config			verdade / verdades	configuração de Pedro Lima
+chave	c.e.	9		settled-config			c.e. / c.e.	configuração de Pedro Lima
+chave	operator	9		settled-config			operador lógico / operadores lógicos	configuração de Pedro Lima
+chave	lambda defined	9		settled-config			\ensuremath{\lambda}-definido / \ensuremath{\lambda}-definidos	configuração de Pedro Lima
+chave	computably enumerable	7		settled-config			computavelmente enumerável / computavelmente enumeráveis	configuração de Pedro Lima
+chave	relational model	6		settled-config			modelo relacional / modelos relacionais	configuração de Pedro Lima
+chave	discharge	5		settled-config			descarrega / descarregam	configuração de Pedro Lima
+chave	nonderivability	4		settled-config			não derivabilidade / não derivabilidades	configuração de Pedro Lima
+chave	proving	3		settled-config			derivando / derivando	configuração de Pedro Lima
+chave	axiomatizability	2		settled-config			axiomatizabilidade / axiomatizabilidades	configuração de Pedro Lima
+chave	parameter	2		settled-config			parâmetro / parâmetros	configuração de Pedro Lima
+chave	hp	2		open-key			pa	sigla de *height-preserving*; nenhuma fonte brasileira lida usa uma sigla: decisão de Pedro (sigla nova, sigla inglesa ou forma por extenso)
+chave	axiomatized	1		settled-config			axiomatizado / axiomatizados	configuração de Pedro Lima
+chave	depth	1		open-key			profundidade / profundidades	feminino (a profundidade); “profundidade lógica” no TCC citado, no mesmo uso (complexidade de fórmulas na eliminação do corte)
+chave	sentences	1		open-key			sentenças	segue a entrada de Pedro *sentence* = sentença / sentenças; a configuração inglesa não define a chave *sentences* (só *sentence*), então a ocorrência é provavelmente um erro da fonte inglesa
+termo definido	bisimulation	1	applied-modal-logic	ai-only		bissimulação	bissimulação	atestado na literatura brasileira lida
+termo definido	bisimilar	1	applied-modal-logic	ai-only		bissimilares	bissimilares	sem fonte encontrada: decidir
+termo definido	truth of formula~ at~	6	applied-modal-logic,normal-modal-logic	ai-varies		verdade de !!a{formula}~$!A$ em~$w$; verdade de !!a{formula}~$!A$ em~$t$; verdade de !!a{formula}~$!A$ em~$t, \sigma$	verdade de fórmula $!A$ em $w$	sem fonte encontrada: decidir
+termo definido	model	3	applied-modal-logic,normal-modal-logic	ai-only		modelo	modelo	atestado na literatura brasileira lida
+termo definido	accessible by a from	1	applied-modal-logic	ai-only		acessível a partir de~$w$ para o agente a	acessível a partir de $w$ para o agente a	sem fonte encontrada: decidir
+termo definido	true at	4	applied-modal-logic,normal-modal-logic	ai-only		verdadeira em	verdadeira em	atestado na literatura brasileira lida
+termo definido	possible histories model	1	applied-modal-logic	ai-only		modelo de histórias possíveis	modelo de histórias possíveis	sem fonte encontrada: decidir
+termo definido	possible histories	1	applied-modal-logic	ai-only		histórias possíveis	histórias possíveis	sem fonte encontrada: decidir
+termo definido	precedes	1	applied-modal-logic	ai-only		precede	precede	sem fonte encontrada: decidir
+termo definido	computably enumerable	2	computability,incompleteness	settled-config		computavelmente enumerável; !!{computably enumerable}	computavelmente enumerável / computavelmente enumeráveis	configuração de Pedro Lima (a mesma palavra é chave de vocabulário)
+termo definido	complete computably enumerable set	1	computability	ai-only		conjunto !!{computably enumerable} completo	conjunto computavelmente enumerável completo	sem fonte encontrada: decidir
+termo definido	computable	2	computability,model-theory	ai-only		computável	computável	atestado na literatura brasileira lida
+termo definido	decidable	2	computability,incompleteness	settled-config		decidíveis; !!{decidable}	decidível / decidíveis	configuração de Pedro Lima (a mesma palavra é chave de vocabulário)
+termo definido	many-one reduction	1	computability	ai-only		redução muitos-para-um	redução muitos-para-um	sem fonte encontrada: decidir
+termo definido	many-one reducible	1	computability	ai-only		redutível muitos-para-um	redutível muitos-para-um	sem fonte encontrada: decidir
+termo definido	many-one equivalent	1	computability	ai-only		equivalentes muitos-para-um	equivalentes muitos-para-um	sem fonte encontrada: decidir
+termo definido	general recursive functions	1	computability	ai-only		funções recursivas gerais	funções recursivas gerais	atestado na Wikipédia em português
+termo definido	regular	3	computability,proof-theory	ai-only		regular; regulares	regular	atestado na literatura brasileira lida
+termo definido	partial recursive functions	1	computability	ai-only		funções recursivas parciais	funções recursivas parciais	sem fonte encontrada: decidir
+termo definido	recursive functions	1	computability	ai-only		funções recursivas	funções recursivas	atestado na literatura brasileira lida
+termo definido	primitive recursion from and	1	computability	ai-only		recursão primitiva a partir de $f$ e $g$	recursão primitiva a partir de $f$ e $g$	sem fonte encontrada: decidir
+termo definido	composition from and , ,~	1	computability	ai-only		composição a partir de $f$ e de $g_0$, \dots,~$g_{k-1}$	composição a partir de $f$ e de $g_0$, , $g_{k-1}$	sem fonte encontrada: decidir
+termo definido	sphere model	1	counterfactuals	ai-only		modelo de esferas	modelo de esferas	sem fonte encontrada: decidir
+termo definido	system of spheres	1	counterfactuals	ai-only		sistema de esferas	sistema de esferas	sem fonte encontrada: decidir
+termo definido	centered	1	counterfactuals	ai-only		centrado	centrado	sem fonte encontrada: decidir
+termo definido	nested	1	counterfactuals	ai-only		aninhado	aninhado	sem fonte encontrada: decidir
+termo definido	axioms	3	first-order-logic,intuitionistic-logic	ai-only		axiomas	axiomas	atestado na literatura brasileira lida
+termo definido	theorem	8	first-order-logic,intuitionistic-logic,many-valued-logic	settled-pedro	teorema	teorema	teorema	arquivos de Pedro Lima
+termo definido	consistent	6	first-order-logic,many-valued-logic,normal-modal-logic	settled-pedro	consistente	consistente	consistente	arquivos de Pedro Lima
+termo definido	inconsistent	5	first-order-logic,many-valued-logic	settled-pedro	inconsistente	inconsistente	inconsistente	arquivos de Pedro Lima
+termo definido	rule of inference	1	first-order-logic	ai-only		regra de inferência	regra de inferência	atestado na literatura brasileira lida
+termo definido	finitely satisfiable	1	first-order-logic	settled-pedro	finitamente satisfatível		finitamente satisfatível	arquivos de Pedro Lima
+termo definido	term model	1	first-order-logic	settled-pedro	modelo de termos		modelo de termos	arquivos de Pedro Lima
+termo definido	saturated	1	first-order-logic	settled-pedro	saturado		saturado	arquivos de Pedro Lima
+termo definido	maximally consistent	2	first-order-logic,propositional-logic	pedro-vs-ai	maximamente consistente	maximalmente consistente	maximamente consistente	escolha de Pedro Lima nos seus arquivos
+termo definido	is a model of	1	first-order-logic	settled-pedro	é um modelo de		é um modelo de	arquivos de Pedro Lima
+termo definido	expresses the relation	1	first-order-logic	settled-pedro	expressa a relação		expressa a relação	arquivos de Pedro Lima
+termo definido	closed	4	first-order-logic,sets-functions-relations	settled-pedro	fechado	fechado	fechado	arquivos de Pedro Lima
+termo definido	closure	1	first-order-logic	settled-pedro	fecho		fecho	arquivos de Pedro Lima
+termo definido	axiomatized by	1	first-order-logic	settled-pedro	axiomatizado por		axiomatizado por	arquivos de Pedro Lima
+termo definido	conclusion	1	first-order-logic	settled-pedro	conclusão		conclusão	arquivos de Pedro Lima
+termo definido	derivable from	6	first-order-logic,many-valued-logic,normal-modal-logic	pedro-vs-ai	!!{derivable} de	!!{derivable} a partir de; !!{derivable} de; !!{derivable} de $\Sigma$	derivável de	escolha de Pedro Lima nos seus arquivos
+termo definido	assumption	1	first-order-logic	settled-pedro	hipótese		hipótese	arquivos de Pedro Lima
+termo definido	-derivation	1	first-order-logic	settled-pedro	$\Log{LK}$-!!{derivation}		$\Log{LK}$-derivação	arquivos de Pedro Lima
+termo definido	end-sequent	1	first-order-logic	settled-pedro	sequente final		sequente final	arquivos de Pedro Lima
+termo definido	derivable in	1	first-order-logic	settled-pedro	!!{derivable} em $\Log{LK}$		derivável em $\Log{LK}$	arquivos de Pedro Lima
+termo definido	sequent	2	first-order-logic,proof-theory	settled-pedro	sequente	sequente	sequente	arquivos de Pedro Lima
+termo definido	antecedent	2	first-order-logic,proof-theory	settled-pedro	antecedente	antecedente	antecedente	arquivos de Pedro Lima
+termo definido	succedent	2	first-order-logic,proof-theory	settled-pedro	sucedente	sucedente	sucedente	arquivos de Pedro Lima
+termo definido	initial sequent	1	first-order-logic	settled-pedro	sequente inicial		sequente inicial	arquivos de Pedro Lima
+termo definido	satisfies	3	first-order-logic	settled-pedro	satisfaz	satisfaz	satisfaz	arquivos de Pedro Lima
+termo definido	valid	6	first-order-logic,intuitionistic-logic,normal-modal-logic,second-order-logic	settled-pedro	válido; válida	válida; válido	válido	arquivos de Pedro Lima
+termo definido	covered	1	first-order-logic	settled-pedro	coberta		coberta	arquivos de Pedro Lima
+termo definido	-string	1	first-order-logic	settled-pedro	$\Lang L$-cadeia		$\Lang L$-cadeia	arquivos de Pedro Lima
+termo definido	string	1	first-order-logic	settled-pedro	cadeia		cadeia	arquivos de Pedro Lima
+termo definido	formation sequence	2	first-order-logic,propositional-logic	settled-pedro	sequência de formação	sequência de formação	sequência de formação	arquivos de Pedro Lima
+termo definido	term formation sequences	1	first-order-logic	settled-pedro	sequências de formação de termos		sequências de formação de termos	arquivos de Pedro Lima
+termo definido	formula formation sequences	1	first-order-logic	settled-pedro	sequências de formação de fórmulas		sequências de formação de fórmulas	arquivos de Pedro Lima
+termo definido	minimal formation sequence	1	first-order-logic	settled-pedro	sequência de formação mínima		sequência de formação mínima	arquivos de Pedro Lima
+termo definido	free	2	first-order-logic,lambda-calculus	pedro-vs-ai	livres	livre	livre / livres	escolha de Pedro Lima nos seus arquivos (ele escreve o plural, *ocorrências livres*; o ramo traz o singular da mesma palavra)
+termo definido	bound	2	first-order-logic,lambda-calculus	settled-pedro	ligada	ligada	ligada	arquivos de Pedro Lima
+termo definido	scope	2	first-order-logic,lambda-calculus	settled-pedro	escopo	escopo	escopo	arquivos de Pedro Lima
+termo definido	bound by	1	first-order-logic	settled-pedro	ligadas pela		ligadas pela	arquivos de Pedro Lima
+termo definido	variable assignment	2	first-order-logic,second-order-logic	settled-pedro	atribuição de variáveis	atribuição de variáveis	atribuição de variáveis	arquivos de Pedro Lima
+termo definido	-variant	2	first-order-logic,second-order-logic	pedro-vs-ai	$x$-variante	variante em $x$	$x$-variante	escolha de Pedro Lima nos seus arquivos
+termo definido	entails	4	first-order-logic,intuitionistic-logic,normal-modal-logic,second-order-logic	pedro-vs-ai	consequência	acarreta; implica	consequência	escolha de Pedro Lima nos seus arquivos
+termo definido	satisfiable	7	first-order-logic,intuitionistic-logic,many-valued-logic,normal-modal-logic,propositional-logic,second-order-logic	settled-pedro	satisfatível	satisfatível	satisfatível	arquivos de Pedro Lima
+termo definido	unsatisfiable	5	first-order-logic,many-valued-logic,propositional-logic,second-order-logic	settled-pedro	insatisfatível	insatisfatível	insatisfatível	arquivos de Pedro Lima
+termo definido	domain	3	first-order-logic,sets-functions-relations	settled-config	domínio; Domínio:		domínio / domínios	configuração de Pedro Lima (a mesma palavra é chave de vocabulário)
+termo definido	interpretation of constants	1	first-order-logic	settled-pedro	Interpretação dos !!{constant}s:		Interpretação dos símbolos de constante	arquivos de Pedro Lima
+termo definido	interpretation of predicates	1	first-order-logic	settled-pedro	Interpretação dos !!{predicate}s:		Interpretação dos símbolos de predicado	arquivos de Pedro Lima
+termo definido	interpretation of functions	1	first-order-logic	settled-pedro	Interpretação dos !!{function}s:		Interpretação dos símbolos de função	arquivos de Pedro Lima
+termo definido	immediate subformulas	1	first-order-logic	settled-pedro	!!{subformula}s imediatas		subfórmulas imediatas	arquivos de Pedro Lima
+termo definido	proper subformulas	1	first-order-logic	settled-pedro	!!{subformula}s próprias		subfórmulas próprias	arquivos de Pedro Lima
+termo definido	substituting	1	first-order-logic	settled-pedro	substituir		substituir	arquivos de Pedro Lima
+termo definido	terms	2	first-order-logic,lambda-calculus	settled-pedro	termos	termos	termos	arquivos de Pedro Lima
+termo definido	closed term	2	first-order-logic,lambda-calculus	settled-pedro	termo fechado	termo fechado	termo fechado	arquivos de Pedro Lima
+termo definido	proper prefix	1	first-order-logic	settled-pedro	prefixo próprio		prefixo próprio	arquivos de Pedro Lima
+termo definido	open	1	first-order-logic	ai-only		aberto	aberto	atestado na literatura brasileira lida
+termo definido	closed tableau	1	first-order-logic	ai-only		!!{tableau} fechado	tableau fechado	atestado na Wikipédia em português
+termo definido	symbol code	1	incompleteness	ai-only		código do símbolo	código do símbolo	sem fonte encontrada: decidir
+termo definido	g\"odel number	1	incompleteness	ai-only		número de G\"odel	número de G\"odel	sem fonte encontrada: decidir
+termo definido	-consistent	1	incompleteness	ai-only		$\omega$-consistente	$\omega$-consistente	sem fonte encontrada: decidir
+termo definido	definable	2	incompleteness,second-order-logic	ai-only		definível	definível	sem fonte encontrada: decidir
+termo definido	theory	2	incompleteness,model-theory	ai-only		teoria	teoria	atestado na literatura brasileira lida
+termo definido	standard model of arithmetic	1	incompleteness	ai-only		modelo padrão da aritmética	modelo padrão da aritmética	sem fonte encontrada: decidir
+termo definido	true arithmetic	2	incompleteness,model-theory	ai-only		aritmética verdadeira	aritmética verdadeira	sem fonte encontrada: decidir
+termo definido	axiomatized	1	incompleteness	settled-config		axiomatizada	axiomatizado / axiomatizados	configuração de Pedro Lima (a mesma palavra é chave de vocabulário)
+termo definido	induction schema	1	incompleteness	ai-only		esquema de indução	esquema de indução	sem fonte encontrada: decidir
+termo definido	peano arithmetic	1	incompleteness	ai-only		aritmética de Peano	aritmética de Peano	atestado na literatura brasileira lida
+termo definido	relatively prime	1	incompleteness	ai-only		primos entre si	primos entre si	sem fonte encontrada: decidir
+termo definido	congruent modulo~	1	incompleteness	ai-only		congruentes módulo~$c$	congruentes módulo $c$	sem fonte encontrada: decidir
+termo definido	bounded existential formula	1	incompleteness	ai-only		!!{formula} existencial limitada	fórmula existencial limitada	sem fonte encontrada: decidir
+termo definido	bounded universal formula	1	incompleteness	ai-only		!!{formula} universal limitada	fórmula universal limitada	sem fonte encontrada: decidir
+termo definido	being true at in	1	intuitionistic-logic	ai-only		ser verdadeira em $w$ em $\mModel{M}$	ser verdadeira em $w$ em $\mModel{M}$	sem fonte encontrada: decidir
+termo definido	true in the model	1	intuitionistic-logic	ai-only		verdadeira no modelo $\mModel{M} = \tuple{W,R,V}$,	verdadeira no modelo $\mModel{M} = \tuple{W,R,V}$	sem fonte encontrada: decidir
+termo definido	restriction	3	intuitionistic-logic,sets-functions-relations	settled-pedro	restrição	restrição	restrição	arquivos de Pedro Lima
+termo definido	topology on~	1	intuitionistic-logic	ai-only		topologia sobre~$X$	topologia sobre $X$	atestado na Wikipédia em português
+termo definido	open sets	1	intuitionistic-logic	ai-only		conjuntos abertos	conjuntos abertos	atestado na Wikipédia em português
+termo definido	topological space	1	intuitionistic-logic	ai-only		espaço topológico	espaço topológico	atestado na Wikipédia em português
+termo definido	topological model	1	intuitionistic-logic	ai-only		modelo topológico	modelo topológico	sem fonte encontrada: decidir
+termo definido	interior	1	intuitionistic-logic	ai-only		interior	interior	atestado na literatura brasileira lida
+termo definido	canonical model	2	intuitionistic-logic,normal-modal-logic	ai-only		modelo canônico	modelo canônico	atestado na literatura brasileira lida
+termo definido	prime	1	intuitionistic-logic	ai-only		primo	primo	atestado na literatura brasileira lida
+termo definido	interpretation of	2	intuitionistic-logic,normal-modal-logic	ai-only		interpretação de	interpretação de	atestado na literatura brasileira lida
+termo definido	church--rosser property	1	lambda-calculus	ai-only		propriedade de Church--Rosser	propriedade de Church--Rosser	sem fonte encontrada: decidir
+termo definido	parallel -reduction	1	lambda-calculus	ai-only		$\beta\eta$-redução paralela	$\beta\eta$-redução paralela	sem fonte encontrada: decidir
+termo definido	-complete development	2	lambda-calculus	ai-varies		desenvolvimento $\beta\eta$-completo; desenvolvimento $\beta$-completo	desenvolvimento $\beta\eta$-completo	sem fonte encontrada: decidir
+termo definido	church numeral	2	lambda-calculus	ai-only		numeral de Church	numeral de Church	sem fonte encontrada: decidir
+termo definido	y-combinator	1	lambda-calculus	ai-only		combinador Y	combinador Y	sem fonte encontrada: decidir
+termo definido	change of bound variable	1	lambda-calculus	ai-only		mudança de variável ligada	mudança de variável ligada	sem fonte encontrada: decidir
+termo definido	compatible	1	lambda-calculus	ai-only		compatível	compatível	sem fonte encontrada: decidir
+termo definido	-conversion	1	lambda-calculus	ai-only		conversão~$\alpha$	conversão $\alpha$	sem fonte encontrada: decidir
+termo definido	the -contraction	1	lambda-calculus	ai-only		contração~$\beta$	contração $\beta$	atestado na literatura brasileira lida
+termo definido	-contracted	1	lambda-calculus	ai-only		contraído por~$\beta$	contraído por $\beta$	sem fonte encontrada: decidir
+termo definido	redex	1	lambda-calculus	ai-only		redex	redex	atestado na Wikipédia em português
+termo definido	-reduction	2	lambda-calculus	ai-varies		redução~$\beta$; redução~$\beta\eta$	redução $\beta$	atestado na literatura brasileira lida
+termo definido	-normal	1	lambda-calculus	ai-only		normal por~$\beta$	normal por $\beta$	sem fonte encontrada: decidir
+termo definido	-equivalence	1	lambda-calculus	ai-only		equivalência~$\beta$	equivalência $\beta$	atestado na literatura brasileira lida
+termo definido	-contraction	1	lambda-calculus	ai-only		contração~$\eta$	contração $\eta$	atestado na literatura brasileira lida
+termo definido	free variables	2	lambda-calculus	ai-only		variáveis livres	variáveis livres	atestado na literatura brasileira lida
+termo definido	combinator	1	lambda-calculus	ai-only		combinador	combinador	sem fonte encontrada: decidir
+termo definido	substitution	2	lambda-calculus	ai-only		substituição	substituição	atestado na literatura brasileira lida
+termo definido	-sided sequent	1	many-valued-logic	ai-only		sequente de $n$ lados	sequente de $n$ lados	sem fonte encontrada: decidir
+termo definido	-sided initial sequent	1	many-valued-logic	ai-only		sequente inicial de $n$ lados	sequente inicial de $n$ lados	sem fonte encontrada: decidir
+termo definido	propositional language	1	many-valued-logic	ai-only		linguagem proposicional	linguagem proposicional	atestado na literatura brasileira lida
+termo definido	connectives	1	many-valued-logic	ai-only		conectivos	conectivos	atestado na literatura brasileira lida
+termo definido	arity	1	many-valued-logic	ai-only		aridade	aridade	atestado na literatura brasileira lida
+termo definido	-place	1	many-valued-logic	ai-only		$n$-ário	$n$-ário	sem fonte encontrada: decidir
+termo definido	constants	1	many-valued-logic	ai-only		constantes	constantes	atestado na literatura brasileira lida
+termo definido	unary	1	many-valued-logic	ai-only		unários	unários	atestado na literatura brasileira lida
+termo definido	binary	1	many-valued-logic	ai-only		binários	binários	atestado na literatura brasileira lida
+termo definido	matrix	1	many-valued-logic	ai-only		matriz	matriz	atestado na literatura brasileira lida
+termo definido	tautology	2	many-valued-logic,propositional-logic	ai-only		tautologia	tautologia	atestado na literatura brasileira lida
+termo definido	satisfied	1	many-valued-logic	ai-only		satisfeita	satisfeita	atestado na literatura brasileira lida
+termo definido	-valued g\"odel logic	1	many-valued-logic	ai-only		lógica $3$-valorada de G\"odel	lógica $3$-valorada de G\"odel	sem fonte encontrada: decidir
+termo definido	strong kleene logic	1	many-valued-logic	ai-only		lógica forte de Kleene	lógica forte de Kleene	sem fonte encontrada: decidir
+termo definido	weak kleene logic	1	many-valued-logic	ai-only		lógica fraca de Kleene	lógica fraca de Kleene	sem fonte encontrada: decidir
+termo definido	logic of paradox	1	many-valued-logic	ai-only		lógica do paradoxo	lógica do paradoxo	sem fonte encontrada: decidir
+termo definido	logic of nonsense	1	many-valued-logic	ai-only		lógica do absurdo	lógica do absurdo	sem fonte encontrada: decidir
+termo definido	3-valued r-mingle	1	many-valued-logic	ai-only		R-Mingle trivalorada	R-Mingle trivalorada	sem fonte encontrada: decidir
+termo definido	nice terms	1	methods	settled-pedro	termos bonitos		termos bonitos	arquivos de Pedro Lima
+termo definido	bracketless terms	1	methods	settled-pedro	termos sem colchetes		termos sem colchetes	arquivos de Pedro Lima
+termo definido	depth	2	methods,proof-theory	settled-pedro	profundidade	profundidade	profundidade	arquivos de Pedro Lima
+termo definido	identical	1	methods	settled-pedro	idênticos		idênticos	arquivos de Pedro Lima
+termo definido	dense linear ordering without endpoints	1	model-theory	ai-only		ordem linear densa sem extremos	ordem linear densa sem extremos	sem fonte encontrada: decidir
+termo definido	elementarily equivalent to	1	model-theory	ai-only		elementarmente equivalente a	elementarmente equivalente a	sem fonte encontrada: decidir
+termo definido	isomorphic to	1	model-theory	ai-only		isomorfa a	isomorfa a	sem fonte encontrada: decidir
+termo definido	automorphism	1	model-theory	ai-only		automorfismo	automorfismo	sem fonte encontrada: decidir
+termo definido	standard model	1	model-theory	ai-only		modelo padrão	modelo padrão	sem fonte encontrada: decidir
+termo definido	standard	2	model-theory	ai-only		padrão	padrão	atestado na literatura brasileira lida
+termo definido	partial isomorphism	1	model-theory	ai-only		isomorfismo parcial	isomorfismo parcial	sem fonte encontrada: decidir
+termo definido	partially isomorphic	1	model-theory	ai-only		parcialmente isomorfas	parcialmente isomorfas	sem fonte encontrada: decidir
+termo definido	back-and-forth	1	model-theory	ai-only		ida e volta	ida e volta	sem fonte encontrada: decidir
+termo definido	forth	1	model-theory	ai-only		Ida	ida	sem fonte encontrada: decidir
+termo definido	back	1	model-theory	ai-only		Volta	volta	atestado na literatura brasileira lida
+termo definido	quantifier rank	1	model-theory	ai-only		posto de quantificadores	posto de quantificadores	sem fonte encontrada: decidir
+termo definido	-equivalent	2	model-theory,sets-functions-relations	pedro-vs-ai	$R$-equivalentes	$n$-equivalentes	$R$-equivalentes	escolha de Pedro Lima nos seus arquivos
+termo definido	concatenation	1	model-theory	ai-only		concatenação	concatenação	atestado na literatura brasileira lida
+termo definido	reduct	1	model-theory	ai-only		reduto	reduto	atestado na literatura brasileira lida
+termo definido	expansion	1	model-theory	ai-only		expansão	expansão	atestado na literatura brasileira lida
+termo definido	substructure	1	model-theory	ai-only		sub!!{structure}	subestrutura	sem fonte encontrada: decidir
+termo definido	extension	1	model-theory	ai-only		extensão	extensão	atestado na literatura brasileira lida
+termo definido	explicitly defines	1	model-theory	ai-only		define explicitamente	define explicitamente	sem fonte encontrada: decidir
+termo definido	implicitly defines	1	model-theory	ai-only		define implicitamente	define implicitamente	sem fonte encontrada: decidir
+termo definido	separates	1	model-theory	ai-only		separa	separa	atestado na literatura brasileira lida
+termo definido	inseparable	1	model-theory	ai-only		inseparáveis	inseparáveis	sem fonte encontrada: decidir
+termo definido	abstract logic	1	model-theory	ai-only		lógica abstrata	lógica abstrata	sem fonte encontrada: decidir
+termo definido	elementarily equivalent in	1	model-theory	ai-only		elementarmente equivalentes em	elementarmente equivalentes em	sem fonte encontrada: decidir
+termo definido	normal	3	model-theory,normal-modal-logic	ai-only		normal	normal	atestado na literatura brasileira lida
+termo definido	-monotonicity	1	model-theory	ai-only		Monotonicidade de $L$	monotonicidade de $L$	atestado na Wikipédia em português
+termo definido	expansion property	1	model-theory	ai-only		Propriedade da expansão	propriedade da expansão	atestado na Wikipédia em português
+termo definido	finite	4	model-theory,normal-modal-logic,set-theory,sets-functions-relations	settled-pedro	finito; finita	finito	finito	arquivos de Pedro Lima
+termo definido	isomorphism property	1	model-theory	ai-only		Propriedade do isomorfismo	propriedade do isomorfismo	sem fonte encontrada: decidir
+termo definido	renaming property	1	model-theory	ai-only		Propriedade da renomeação	propriedade da renomeação	sem fonte encontrada: decidir
+termo definido	boolean property	1	model-theory	ai-only		Propriedade booleana	propriedade booleana	sem fonte encontrada: decidir
+termo definido	quantifier property	1	model-theory	ai-only		Propriedade dos quantificadores	propriedade dos quantificadores	sem fonte encontrada: decidir
+termo definido	relativization property	1	model-theory	ai-only		Propriedade da relativização	propriedade da relativização	sem fonte encontrada: decidir
+termo definido	relativization	1	model-theory	ai-only		relativização	relativização	sem fonte encontrada: decidir
+termo definido	at least as expressive	1	model-theory	ai-only		ao menos tão expressiva	ao menos tão expressiva	sem fonte encontrada: decidir
+termo definido	equivalent	1	model-theory	ai-only		equivalentes	equivalentes	atestado na literatura brasileira lida
+termo definido	compactness property	1	model-theory	ai-only		propriedade da compacidade	propriedade da compacidade	sem fonte encontrada: decidir
+termo definido	downward l\"owenheim--skolem property	1	model-theory	ai-only		propriedade descendente de L\"owenheim--Skolem	propriedade descendente de L\"owenheim--Skolem	sem fonte encontrada: decidir
+termo definido	non-standard	1	model-theory	ai-only		não padrão	não padrão	sem fonte encontrada: decidir
+termo definido	standard numbers	1	model-theory	ai-only		números padrão	números padrão	sem fonte encontrada: decidir
+termo definido	non-standard numbers	1	model-theory	ai-only		números não padrão	números não padrão	sem fonte encontrada: decidir
+termo definido	dual	1	normal-modal-logic	ai-only		dual	dual	atestado na literatura brasileira lida
+termo definido	modus ponens	2	normal-modal-logic	ai-only		modus ponens	modus ponens	atestado na literatura brasileira lida
+termo definido	follows from	1	normal-modal-logic	ai-only		segue de	segue de	atestado na literatura brasileira lida
+termo definido	necessitation	2	normal-modal-logic	ai-only		necessitação	necessitação	atestado na literatura brasileira lida
+termo definido	modal logic	2	normal-modal-logic	ai-only		lógica modal	lógica modal	atestado na literatura brasileira lida
+termo definido	modal system	1	normal-modal-logic	ai-only		sistema modal	sistema modal	atestado na literatura brasileira lida
+termo definido	deductively closed	1	normal-modal-logic	ai-only		dedutivamente fechado	dedutivamente fechado	sem fonte encontrada: decidir
+termo definido	complete -consistent	1	normal-modal-logic	ai-only		$\Sigma$-consistente completo	$\Sigma$-consistente completo	sem fonte encontrada: decidir
+termo definido	determines	1	normal-modal-logic	ai-only		determina	determina	atestado na literatura brasileira lida
+termo definido	finite model property	1	normal-modal-logic	ai-only		propriedade do modelo finito	propriedade do modelo finito	sem fonte encontrada: decidir
+termo definido	finest	1	normal-modal-logic	ai-only		mais fina	mais fina	sem fonte encontrada: decidir
+termo definido	coarsest	1	normal-modal-logic	ai-only		mais grossa	mais grossa	sem fonte encontrada: decidir
+termo definido	both	1	normal-modal-logic	ai-only		ambas	ambas	atestado na literatura brasileira lida
+termo definido	filtration of through	1	normal-modal-logic	ai-only		filtração de $\mModel{M}$ por $\Gamma$	filtração de $\mModel{M}$ por $\Gamma$	sem fonte encontrada: decidir
+termo definido	closed under subformulas	1	normal-modal-logic	ai-only		fechado sob subfórmulas	fechado sob subfórmulas	atestado na literatura brasileira lida
+termo definido	modally closed	1	normal-modal-logic	ai-only		modalmente fechado	modalmente fechado	sem fonte encontrada: decidir
+termo definido	defines	1	normal-modal-logic	ai-only		define	define	atestado na literatura brasileira lida
+termo definido	equivalence relation	2	normal-modal-logic,sets-functions-relations	settled-pedro	relação de equivalência	relação de equivalência	relação de equivalência	arquivos de Pedro Lima
+termo definido	universal	1	normal-modal-logic	ai-only		universal	universal	atestado na literatura brasileira lida
+termo definido	first-order definable	1	normal-modal-logic	ai-only		definível em primeira ordem	definível em primeira ordem	atestado na Wikipédia em português
+termo definido	frame	1	normal-modal-logic	ai-only		frame	frame	atestado na literatura brasileira lida
+termo definido	based on	1	normal-modal-logic	ai-only		baseado em	baseado em	atestado na literatura brasileira lida
+termo definido	valid in	1	normal-modal-logic	ai-varies		válida em $\mModel{F}$,; válida em $\mClass{F}$,	válida em $\mModel{F}$	sem fonte encontrada: decidir
+termo definido	standard translation	1	normal-modal-logic	ai-only		tradução padrão	tradução padrão	sem fonte encontrada: decidir
+termo definido	second-order definable	1	normal-modal-logic	ai-only		definível em segunda ordem	definível em segunda ordem	sem fonte encontrada: decidir
+termo definido	all	1	normal-modal-logic	ai-only		todos	todos	atestado na literatura brasileira lida
+termo definido	accessible from	1	normal-modal-logic	ai-only		acessível a partir de	acessível a partir de	atestado na literatura brasileira lida
+termo definido	schema	1	normal-modal-logic	ai-only		esquema	esquema	atestado na literatura brasileira lida
+termo definido	characteristic	1	normal-modal-logic	ai-only		característica	característica	atestado na literatura brasileira lida
+termo definido	instance	1	normal-modal-logic	ai-only		instância	instância	atestado na literatura brasileira lida
+termo definido	true	1	normal-modal-logic	ai-only		verdadeiro	verdadeiro	atestado na literatura brasileira lida
+termo definido	substitution instance	1	normal-modal-logic	ai-only		instância de substituição	instância de substituição	sem fonte encontrada: decidir
+termo definido	tautological instance	1	normal-modal-logic	ai-only		instância tautológica	instância tautológica	sem fonte encontrada: decidir
+termo definido	true in a model	1	normal-modal-logic	ai-only		verdadeira em um modelo	verdadeira em um modelo	sem fonte encontrada: decidir
+termo definido	cut height	1	proof-theory	ai-only		altura de corte	altura de corte	sem fonte encontrada: decidir
+termo definido	cut rank	2	proof-theory	ai-only		posto de corte	posto de corte	sem fonte encontrada: decidir
+termo definido	open assumptions	1	proof-theory	ai-only		hipóteses abertas	hipóteses abertas	sem fonte encontrada: decidir
+termo definido	segment	1	proof-theory	ai-only		segmento	segmento	sem fonte encontrada: decidir
+termo definido	length	1	proof-theory	ai-only		comprimento	comprimento	sem fonte encontrada: decidir
+termo definido	cut	2	proof-theory,sets-functions-relations	settled-pedro	corte	corte	corte	arquivos de Pedro Lima
+termo definido	rank	1	proof-theory	ai-only		posto	posto	atestado na literatura brasileira lida
+termo definido	maximal	1	proof-theory	ai-only		máximo	máximo	atestado na literatura brasileira lida
+termo definido	cut length	1	proof-theory	ai-only		comprimento de corte	comprimento de corte	sem fonte encontrada: decidir
+termo definido	context	1	proof-theory	ai-only		contexto	contexto	atestado na literatura brasileira lida
+termo definido	type	1	proof-theory	ai-only		tipo	tipo	atestado na literatura brasileira lida
+termo definido	admissible	1	proof-theory	ai-only		admissível	admissível	sem fonte encontrada: decidir
+termo definido	height-preserving admissible	1	proof-theory	ai-only		admissível com preservação de !!{height}	admissível com preservação de altura	sem fonte encontrada: decidir
+termo definido	hp-admissible	1	proof-theory	ai-only		!!{hp}-admissível	hp-admissível	sem fonte encontrada: decidir
+termo definido	invertible	1	proof-theory	ai-only		invertível	invertível	atestado na literatura brasileira lida
+termo definido	height-preserving invertible	1	proof-theory	ai-only		invertível com preservação de !!{height}	invertível com preservação de altura	sem fonte encontrada: decidir
+termo definido	hp-invertible	1	proof-theory	ai-only		!!{hp}-invertível	hp-invertível	sem fonte encontrada: decidir
+termo definido	contingent	1	propositional-logic	ai-only		contingente	contingente	atestado na literatura brasileira lida
+termo definido	satisfaction of formula~ by valuation~	1	propositional-logic	ai-only		satisfação de !!a{formula}~$!A$ por !!a{valuation}~$\pAssign{v}$	satisfação de fórmula $!A$ por valoração $\pAssign{v}$	sem fonte encontrada: decidir
+termo definido	-codes	1	second-order-logic	ai-only		$x$ $R$-codifica	$x$ $R$-codifica	sem fonte encontrada: decidir
+termo definido	second-order terms	1	second-order-logic	ai-only		termos de segunda ordem	termos de segunda ordem	atestado na Wikipédia em português
+termo definido	second-order formulas	1	second-order-logic	ai-only		!!{formula}s de segunda ordem	fórmulas de segunda ordem	sem fonte encontrada: decidir
+termo definido	canonical ordering	1	set-theory	settled-pedro	ordenação canónica		ordenação canónica	arquivos de Pedro Lima
+termo definido	cardinal	1	set-theory	settled-pedro	cardinal		cardinal	arquivos de Pedro Lima
+termo definido	infinite	2	set-theory,sets-functions-relations	settled-pedro	infinito; infinita		infinito	arquivos de Pedro Lima
+termo definido	choice function	1	set-theory	settled-pedro	função de escolha		função de escolha	arquivos de Pedro Lima
+termo definido	choice function for	1	set-theory	settled-pedro	função de escolha para $A$		função de escolha para $A$	arquivos de Pedro Lima
+termo definido	disjoint sum	1	set-theory	settled-pedro	soma disjunta		soma disjunta	arquivos de Pedro Lima
+termo definido	well-ordering	1	set-theory	settled-pedro	boa ordenação		boa ordenação	arquivos de Pedro Lima
+termo definido	order-isomorphic	1	set-theory	settled-pedro	isomorfas por ordem		isomorfas por ordem	arquivos de Pedro Lima
+termo definido	order-isomorphism	1	set-theory	settled-pedro	isomorfismo de ordem		isomorfismo de ordem	arquivos de Pedro Lima
+termo definido	initial segment	1	set-theory	settled-pedro	segmento inicial		segmento inicial	arquivos de Pedro Lima
+termo definido	successor	2	set-theory,sets-functions-relations	settled-pedro	sucessor		sucessor	arquivos de Pedro Lima
+termo definido	limit	1	set-theory	settled-pedro	limite		limite	arquivos de Pedro Lima
+termo definido	transitive	2	set-theory,sets-functions-relations	settled-pedro	transitivo; transitiva		transitivo	arquivos de Pedro Lima
+termo definido	ordinal	1	set-theory	settled-pedro	ordinal		ordinal	arquivos de Pedro Lima
+termo definido	well-orders	1	set-theory	settled-pedro	bem ordena		bem ordena	arquivos de Pedro Lima
+termo definido	transitive closure	2	set-theory,sets-functions-relations	settled-pedro	fecho transitivo		fecho transitivo	arquivos de Pedro Lima
+termo definido	-approximation	1	set-theory	settled-pedro	aproximação de ordem $\alpha$		aproximação de ordem $\alpha$	arquivos de Pedro Lima
+termo definido	potent	1	set-theory	settled-pedro	potente		potente	arquivos de Pedro Lima
+termo definido	natural numbers	1	set-theory	settled-pedro	números naturais		números naturais	arquivos de Pedro Lima
+termo definido	cauchy sequence	1	sets-functions-relations	settled-pedro	sequência de Cauchy		sequência de Cauchy	arquivos de Pedro Lima
+termo definido	commutative ring	1	sets-functions-relations	settled-pedro	anel comutativo		anel comutativo	arquivos de Pedro Lima
+termo definido	associativity	1	sets-functions-relations	settled-pedro	Associatividade		Associatividade	arquivos de Pedro Lima
+termo definido	commutativity	1	sets-functions-relations	settled-pedro	Comutatividade		Comutatividade	arquivos de Pedro Lima
+termo definido	identities	1	sets-functions-relations	settled-pedro	Neutros		Neutros	arquivos de Pedro Lima
+termo definido	additive inverse	1	sets-functions-relations	settled-pedro	Simétrico aditivo		Simétrico aditivo	arquivos de Pedro Lima
+termo definido	distributivity	1	sets-functions-relations	settled-pedro	Distributividade		Distributividade	arquivos de Pedro Lima
+termo definido	ordered ring	1	sets-functions-relations	settled-pedro	anel ordenado		anel ordenado	arquivos de Pedro Lima
+termo definido	ordered field	1	sets-functions-relations	settled-pedro	corpo ordenado		corpo ordenado	arquivos de Pedro Lima
+termo definido	multiplicative inverse	1	sets-functions-relations	settled-pedro	Inverso multiplicativo		Inverso multiplicativo	arquivos de Pedro Lima
+termo definido	non-empty, proper	1	sets-functions-relations	settled-pedro	não vazio, próprio		não vazio, próprio	arquivos de Pedro Lima
+termo definido	initial	1	sets-functions-relations	settled-pedro	inicial		inicial	arquivos de Pedro Lima
+termo definido	no maximum	1	sets-functions-relations	settled-pedro	sem máximo		sem máximo	arquivos de Pedro Lima
+termo definido	composition	1	sets-functions-relations	settled-pedro	composição		composição	arquivos de Pedro Lima
+termo definido	function	1	sets-functions-relations	settled-pedro	função		função	arquivos de Pedro Lima
+termo definido	codomain	1	sets-functions-relations	settled-pedro	contradomínio		contradomínio	arquivos de Pedro Lima
+termo definido	arguments	1	sets-functions-relations	settled-pedro	argumentos		argumentos	arquivos de Pedro Lima
+termo definido	value of~	1	sets-functions-relations	settled-pedro	valor de~$f$		valor de $f$	arquivos de Pedro Lima
+termo definido	range	1	sets-functions-relations	settled-pedro	imagem		imagem	arquivos de Pedro Lima
+termo definido	graph	2	sets-functions-relations	settled-pedro	gráfico		gráfico	arquivos de Pedro Lima
+termo definido	application	2	sets-functions-relations	settled-pedro	aplicação		aplicação	arquivos de Pedro Lima
+termo definido	image	1	sets-functions-relations	settled-pedro	imagem		imagem	arquivos de Pedro Lima
+termo definido	inverse	2	sets-functions-relations	settled-pedro	inversa		inversa	arquivos de Pedro Lima
+termo definido	isomorphism	1	sets-functions-relations	settled-pedro	isomorfismo		isomorfismo	arquivos de Pedro Lima
+termo definido	partial function	1	sets-functions-relations	settled-pedro	função parcial		função parcial	arquivos de Pedro Lima
+termo definido	defined	1	sets-functions-relations	settled-pedro	definido		definido	arquivos de Pedro Lima
+termo definido	undefined	1	sets-functions-relations	settled-pedro	indefinido		indefinido	arquivos de Pedro Lima
+termo definido	preserved under	1	sets-functions-relations	ai-only		preservada por	preservada por	sem fonte encontrada: decidir
+termo definido	dedekind algebra	1	sets-functions-relations	settled-pedro	álgebra de Dedekind		álgebra de Dedekind	arquivos de Pedro Lima
+termo definido	dedekind infinite	1	sets-functions-relations	settled-pedro	infinito de Dedekind		infinito de Dedekind	arquivos de Pedro Lima
+termo definido	equivalence class	1	sets-functions-relations	settled-pedro	classe de equivalência		classe de equivalência	arquivos de Pedro Lima
+termo definido	quotient	1	sets-functions-relations	settled-pedro	quociente		quociente	arquivos de Pedro Lima
+termo definido	directed graph	1	sets-functions-relations	settled-pedro	grafo direcionado		grafo direcionado	arquivos de Pedro Lima
+termo definido	vertices	1	sets-functions-relations	settled-pedro	vértices		vértices	arquivos de Pedro Lima
+termo definido	edges	1	sets-functions-relations	settled-pedro	arestas		arestas	arquivos de Pedro Lima
+termo definido	relative product	1	sets-functions-relations	settled-pedro	produto relativo		produto relativo	arquivos de Pedro Lima
+termo definido	reflexive transitive closure	1	sets-functions-relations	settled-pedro	fecho reflexivo transitivo		fecho reflexivo transitivo	arquivos de Pedro Lima
+termo definido	preorder	1	sets-functions-relations	settled-pedro	pré-ordem.		pré-ordem	arquivos de Pedro Lima
+termo definido	partial order	1	sets-functions-relations	settled-pedro	ordem parcial		ordem parcial	arquivos de Pedro Lima
+termo definido	total order	1	sets-functions-relations	settled-pedro	ordem total		ordem total	arquivos de Pedro Lima
+termo definido	linear order	1	sets-functions-relations	settled-pedro	ordem linear.		ordem linear	arquivos de Pedro Lima
+termo definido	strict order	1	sets-functions-relations	settled-pedro	ordem estrita		ordem estrita	arquivos de Pedro Lima
+termo definido	strict total order	1	sets-functions-relations	settled-pedro	ordem total estrita		ordem total estrita	arquivos de Pedro Lima
+termo definido	strict linear order	1	sets-functions-relations	settled-pedro	ordem linear estrita.		ordem linear estrita	arquivos de Pedro Lima
+termo definido	binary relation	1	sets-functions-relations	settled-pedro	relação binária		relação binária	arquivos de Pedro Lima
+termo definido	reflexive	1	sets-functions-relations	settled-pedro	reflexiva		reflexiva	arquivos de Pedro Lima
+termo definido	symmetric	1	sets-functions-relations	settled-pedro	simétrica		simétrica	arquivos de Pedro Lima
+termo definido	anti-sym\-met\-ric	1	sets-functions-relations	settled-pedro	antissimétrica		antissimétrica	arquivos de Pedro Lima
+termo definido	connected	1	sets-functions-relations	settled-pedro	conexa		conexa	arquivos de Pedro Lima
+termo definido	irreflexive	1	sets-functions-relations	settled-pedro	irreflexiva		irreflexiva	arquivos de Pedro Lima
+termo definido	asymmetric	1	sets-functions-relations	settled-pedro	assimétrica		assimétrica	arquivos de Pedro Lima
+termo definido	tree	1	sets-functions-relations	settled-pedro	árvore		árvore	arquivos de Pedro Lima
+termo definido	root	1	sets-functions-relations	settled-pedro	raiz		raiz	arquivos de Pedro Lima
+termo definido	finitely branching	1	sets-functions-relations	settled-pedro	finitamente ramificada		finitamente ramificada	arquivos de Pedro Lima
+termo definido	branch	1	sets-functions-relations	settled-pedro	ramo		ramo	arquivos de Pedro Lima
+termo definido	cartesian product	1	sets-functions-relations	settled-pedro	produto cartesiano		produto cartesiano	arquivos de Pedro Lima
+termo definido	subset	1	sets-functions-relations	settled-pedro	subconjunto		subconjunto	arquivos de Pedro Lima
+termo definido	proper subset	1	sets-functions-relations	settled-pedro	subconjunto próprio		subconjunto próprio	arquivos de Pedro Lima
+termo definido	power set of	1	sets-functions-relations	settled-pedro	conjunto potência		conjunto potência	arquivos de Pedro Lima
+termo definido	union	1	sets-functions-relations	settled-pedro	união		união	arquivos de Pedro Lima
+termo definido	intersection	1	sets-functions-relations	settled-pedro	interseção		interseção	arquivos de Pedro Lima
+termo definido	disjoint	1	sets-functions-relations	settled-pedro	disjuntos		disjuntos	arquivos de Pedro Lima
+termo definido	set difference	1	sets-functions-relations	settled-pedro	diferença		diferença	arquivos de Pedro Lima
+termo definido	no larger than	1	sets-functions-relations	settled-pedro	não é maior do que		não é maior do que	arquivos de Pedro Lima
+termo definido	smaller than	1	sets-functions-relations	settled-pedro	menor do que		menor do que	arquivos de Pedro Lima
+termo definido	enumeration	2	sets-functions-relations	settled-pedro	enumeração		enumeração	arquivos de Pedro Lima
+termo definido	equinumerous	1	sets-functions-relations	settled-pedro	equinumeroso		equinumeroso	arquivos de Pedro Lima
+termo definido	pairing function	1	sets-functions-relations	settled-pedro	função de emparelhamento		função de emparelhamento	arquivos de Pedro Lima
+termo definido	encodes	1	sets-functions-relations	settled-pedro	codifica		codifica	arquivos de Pedro Lima
+termo definido	code	1	sets-functions-relations	settled-pedro	código		código	arquivos de Pedro Lima
+termo definido	church--turing thesis	1	turing-machines	settled-pedro	tese de Church--Turing		tese de Church--Turing	arquivos de Pedro Lima
+termo definido	configuration	1	turing-machines	settled-pedro	configuração		configuração	arquivos de Pedro Lima
+termo definido	initial configuration	1	turing-machines	settled-pedro	configuração inicial		configuração inicial	arquivos de Pedro Lima
+termo definido	yields the configuration in one step	1	turing-machines	settled-pedro	produz a configuração $\tuple{C', m', q'}$ em um passo		produz a configuração $\tuple{C', m', q'}$ em um passo	arquivos de Pedro Lima
+termo definido	run of on input~	1	turing-machines	settled-pedro	execução de $M$ sobre a entrada~$I$		execução de $M$ sobre a entrada $I$	arquivos de Pedro Lima
+termo definido	halts on input after steps	1	turing-machines	settled-pedro	para sobre a entrada $I$ após $k$ passos		para sobre a entrada $I$ após $k$ passos	arquivos de Pedro Lima
+termo definido	output	1	turing-machines	settled-pedro	saída		saída	arquivos de Pedro Lima
+termo definido	disciplined	1	turing-machines	settled-pedro	disciplinada		disciplinada	arquivos de Pedro Lima
+termo definido	turing machine	1	turing-machines	settled-pedro	máquina de Turing		máquina de Turing	arquivos de Pedro Lima
+termo definido	states	1	turing-machines	settled-pedro	estados		estados	arquivos de Pedro Lima
+termo definido	alphabet	1	turing-machines	settled-pedro	alfabeto		alfabeto	arquivos de Pedro Lima
+termo definido	initial state	1	turing-machines	settled-pedro	estado inicial		estado inicial	arquivos de Pedro Lima
+termo definido	instruction set	1	turing-machines	settled-pedro	conjunto de instruções		conjunto de instruções	arquivos de Pedro Lima
+termo definido	transition function	1	turing-machines	settled-pedro	função de transição		função de transição	arquivos de Pedro Lima
+termo definido	computes	1	turing-machines	settled-pedro	computa		computa	arquivos de Pedro Lima
+termo definido	halting function	1	turing-machines	settled-pedro	função de parada		função de parada	arquivos de Pedro Lima
+termo definido	halting problem	1	turing-machines	settled-pedro	Problema da Parada		Problema da Parada	arquivos de Pedro Lima
+termo definido	index	1	turing-machines	settled-pedro	índice		índice	arquivos de Pedro Lima
